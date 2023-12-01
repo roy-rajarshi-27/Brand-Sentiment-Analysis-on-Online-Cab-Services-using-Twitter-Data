@@ -1,4 +1,4 @@
-# Brand_Sentiment_Analysis_on_Online_Cab_Services_like_Ola_and_Uber_using_Twitter_Data
+# Brand Sentiment Analysis on Online Cab Services like Ola and Uber using Twitter_Data
 
 
 ![image](https://github.com/roy-rajarshi-27/Brand_Sentiment_Analysis_on_Online_Cab_Services_like_Ola_and_Uber_using_Twitter_Data/assets/126455566/0dbff4ad-6354-414b-b99c-5f1722c77dea)
